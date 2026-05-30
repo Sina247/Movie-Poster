@@ -13,3 +13,8 @@ Movie Poster is a visually striking component designed to showcase film artwork,
 - 🔍 **Interactive Elements** : Supports hover effects and clickable links for more info or trailers.  
 - 🌍 **Cross Browser Compatible** : Works well on all modern browsers.  
 - 🔌 **Easy Integration** : Simple to add in any web project with clear HTML structure.
+
+ ---
+ 
+## 🖼️ Screenshot
+<img width="1919" height="937" alt="Screenshot 2026-05-30 102143" src="https://github.com/user-attachments/assets/04ee58ee-2dc6-4a34-ac33-ccb01021c7ff" />
